@@ -1,17 +1,17 @@
 # Projeto 05 — Cálculo de média
 
-Integrantes: preencher nomes e RAs.
+Integrante: Laura Cristini da Silva
+RA: 2171392511014
 
-Feito com Node.js sem frameworks. Utiliza somente os módulos nativos http, fs e path.
+
 
 ## Executar
 
-Na pasta do projeto:
+No terminal da pasta do projeto:
 
-```bash
 npm install
 npm start
-```
+
 
 Acesse http://localhost:3000/media?p1=7.5&p2=5.0
 
