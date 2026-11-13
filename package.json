@@ -1,0 +1,9 @@
+{
+  "name": "projeto05-media-aluno",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Cálculo de média com Node.js sem frameworks - Desenvolvimento Web III",
+  "main": "app.js",
+  "scripts": { "start": "node app.js" },
+  "engines": { "node": ">=18" }
+}
